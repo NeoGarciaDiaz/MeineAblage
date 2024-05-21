@@ -6,7 +6,7 @@ Hier werde Ich nun die Dateien kurz beschreiben:
 
 -Whitenoise
 Whitenoise ist ein Programm welches auf einem Fenster zufällig befärbte Rechtecke mit 5*5 Pixel Größe platziert.
-Es ist ein Vorgänger für einen geplanten zuffäligen Bildgenerator inspiriert von KI basierter Bildgeneration.
+Es ist ein Vorgänger für einen geplanten zufälligen Bildgenerator inspiriert von KI basierter Bildgeneration.
 
 -TESTPROJ
 Ein Test, um zu sehen in wie fern ich fähig bin in Winforms ein Spiel zu Programmiern.
