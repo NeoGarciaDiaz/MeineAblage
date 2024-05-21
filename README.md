@@ -12,7 +12,7 @@ Es ist ein Vorgänger für einen geplanten zufälligen Bildgenerator inspiriert 
 Ein Test, um zu sehen in wie fern ich fähig bin in Winforms ein Spiel zu Programmiern.
 Der Code ist verbesserungsbedürftig und enthält noch keine Kommentierung.
 Den Meisten Code habe ich in meiner Freizeit während der Schule geschrieben.
-Das Spielfeld nimmt inspiration aus den Schauchbrettern aus meinen Webanwendungen.
+Das Spielfeld nimmt inspiration aus den Schachbrettern aus meinen Webanwendungen.
 Prinzip des Spiels ist es möglichst viele Level zu schaffen und seinen Score zu erhöhen, indem man die Alle Gegner auf dem Spielfeld vernichtet.
 Normale Gegner bewegen sich zufällig in eine der vier Richtungen.
 Jede fünf Level kommt ein Bossgegner, welcher den Spieler verfolgt, mehrere Leben hat und auch schießen kann.
