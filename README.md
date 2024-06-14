@@ -4,11 +4,11 @@ Meine Visualstudio Projekte haben einmal eine ausführbare Datei und den Projekt
 
 Hier werde Ich nun die Dateien kurz beschreiben:
 
--Whitenoise
+-Whitenoise:
 Whitenoise ist ein Programm welches auf einem Fenster zufällig befärbte Rechtecke mit 5*5 Pixel Größe platziert.
 Es ist ein Vorgänger für einen geplanten zufälligen Bildgenerator inspiriert von KI basierter Bildgeneration.
 
--TESTPROJ
+-TESTPROJ:
 Ein Test, um zu sehen in wie fern ich fähig bin in Winforms ein Spiel zu Programmiern.
 Der Code ist verbesserungsbedürftig und enthält noch keine Kommentierung.
 Den Meisten Code habe ich in meiner Freizeit während der Schule geschrieben.
@@ -26,11 +26,11 @@ R: Vier Pinke Rechtecke erscheinen um den Spieler, welche Gegner treffen und nac
 TAB und T: Drehen den Spieler entweder im oder gegen den Uhrzeigersinn.
 Dieses Projekt gab mir guten eindruck wozu ich fähig bin. In Zukunft möchte ich mir das Programmieren in Unity aneignen.
 
--8damenproblem
+-8damenproblem:
 Diese Webanwendung repräsentiert das Damenproblem (https://de.wikipedia.org/wiki/Damenproblem). Es gillt 8 Damen auf ein Schachbrett zu platzieren, ohne dass diese sich gegenseitig in den weg der jeweiligen Laufbahnen kommen.
 Oben gibt es einen Knopf zum neustarten wenn man etwas falsch platziert hat. Sobald 8 Damen in einer der richtigen Weisen auf dem Spielbrett platziert wurden wird eine Siegesnachricht erzeug.
 Fast alles auf der Seite wird Programmatisch erzeugt. Dies war eine Zusatzaufgabe meiner Lehrkraft im Unterricht Internetanwendungen während der Mittelstufe.
 
--Schach
+-Schach:
 Eine Webanwendung, auf der sich Schach Spielen lässt. Geschrieben habe ich den Code während eines Vierwöchigen Praktikums. Der Code ist schon etwas älter und Ich würde ihn heutzutage anders schreiben.
 bekannte Fehlerquellen sind auf der Seite gelistet. Ansonsten ist das Spiel vollkommen funktionstüchtig. Ich konnte hier auf viele kreative Wege lernen logische Dinge in Javascript umzusetzen.
